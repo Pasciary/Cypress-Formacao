@@ -1,0 +1,17 @@
+# Arquivos do Node
+# Diretório de dependências
+**node_modules/
+
+# Logs de depuração
+npm-debug.log
+yarn-debug.log
+
+# Variáveis de ambiente
+.env
+
+# Cypress
+# Vídeos, capturas de tela e relatórios de testes
+**cypress/videos/
+**cypress/screenshots/
+**cypress/results/
+**cypress/reports/
